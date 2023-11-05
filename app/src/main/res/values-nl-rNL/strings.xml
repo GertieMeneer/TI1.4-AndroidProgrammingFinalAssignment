@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidProgrammingFinalAssignment</string>
+    <string name="app_name_header">Licht Bediening</string>
+    <string name="disconnected">MQTT Status: Niet verbonden</string>
+    <string name="connected">MQTT Status: Verbonden</string>
+    <string name="blue_led_on">Blauwe LED: Aan</string>
+    <string name="red_led_off">Rode LED: Uit</string>
+    <string name="red_led_on">Rode LED: Aan</string>
+    <string name="blue_led_off">Blauwe LED: Uit</string>
+    <string name="yellow_led_off">Gele LED: Uit</string>
+    <string name="yellow_led_on">Gele LED: Aan</string>
+    <string name="green_led_off">Groene LED: Uit</string>
+    <string name="green_led_on">Groene LED: Aan</string>
+    <string name="red_led">Rode LED</string>
+    <string name="blue_led">Blauwe LED</string>
+    <string name="yellow_led">Gele LED</string>
+    <string name="green_led">Groene LED</string>
+    <string name="red_led_unreachable">Rode LED Onbereikbaar</string>
+    <string name="blue_led_unreachable">Blauwe LED Onbereikbaar</string>
+    <string name="yellow_led_unreachable">Gele LED Onbereikbaar</string>
+    <string name="green_led_unreachable">Groene LED Onbereikbaar</string>
+    <string name="log">Log</string>
+    <string name="clear_log">Verwijder Log</string>
+    <string name="reconnect">Opnieuw verbinden</string>
+    <string name="disconnect">Verbinding verbreken</string>
+    <string name="back">Terug</string>
+    <string name="reconnecting">Opnieuw verbinden...</string>
+    <string name="log_deleted">Log verwijderd</string>
+    <string name="disconnecting">Verbinding verbreken...</string>
+</resources>

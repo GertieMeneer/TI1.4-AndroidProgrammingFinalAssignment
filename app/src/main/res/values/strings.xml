@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AndroidProgrammingFinalAssignment</string>
+    <string name="app_name_header">Light Control</string>
+    <string name="disconnected">MQTT Status: Disconnected</string>
+    <string name="connected">MQTT Status: Connected</string>
+    <string name="blue_led_on">Blue LED: On</string>
+    <string name="red_led_off">Red LED: Off</string>
+    <string name="red_led_on">Red LED: On</string>
+    <string name="blue_led_off">Blue LED: Off</string>
+    <string name="yellow_led_off">Yellow LED: Off</string>
+    <string name="yellow_led_on">Yellow LED: On</string>
+    <string name="green_led_off">Green LED: Off</string>
+    <string name="green_led_on">Green LED: On</string>
+    <string name="red_led">Red LED</string>
+    <string name="blue_led">Blue LED</string>
+    <string name="yellow_led">Yellow LED</string>
+    <string name="green_led">Green LED</string>
+    <string name="red_led_unreachable">Red LED Unreachable</string>
+    <string name="blue_led_unreachable">Blue LED Unreachable</string>
+    <string name="yellow_led_unreachable">Yellow LED Unreachable</string>
+    <string name="green_led_unreachable">Green LED Unreachable</string>
+    <string name="log">Log</string>
+    <string name="clear_log">Clear Log</string>
+    <string name="reconnect">Reconnect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="back">Back</string>
+    <string name="reconnecting">Reconnecting...</string>
+    <string name="log_deleted">Log deleted</string>
+    <string name="disconnecting">Disconnecting...</string>
+</resources>
