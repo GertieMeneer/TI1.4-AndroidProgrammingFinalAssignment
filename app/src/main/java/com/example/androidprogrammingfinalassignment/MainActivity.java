@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity
 
         try
         {
-            client = new MqttClient("ssl://8f379621c2fc4eba8c8f89232ae9aab3.s2.eu.hivemq.cloud", MqttClient.generateClientId(), new MemoryPersistence());
+            client = new MqttClient("ssl://8f379621c2fc4eba8c8f89232ae9aab3.s2.eu.hivemq.cloud", MqttClient.generateClientId(), new MemoryPersistence());       //url not in use anymore
         } catch (Exception e)
         {
             e.printStackTrace();
